@@ -38,7 +38,8 @@ expansão e integração com sistemas mais complexos.
 Protótipo desenvolvido em protoboard para validação da lógica de controle por
 FSM em um sistema físico real.
 
-![Circuito do projeto](imagens/circuito.jpg)
+![Circuito do Portão Automático](03_Portao_Automatico/circuito.jpg)
+
 
 ---
 
