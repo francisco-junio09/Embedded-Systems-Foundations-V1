@@ -99,8 +99,7 @@ Breadboard prototype used to validate FSM-based control logic in a real
 physical system.
 
 ## 📸 Circuito do Projeto
-
-![Circuito do Portão Automático](circuito.jpg)
+![Circuito do Portão Automático](03_Portao_Automatico/circuito.jpg)
 
 
 ---
