@@ -98,7 +98,10 @@ and system robustness.
 Breadboard prototype used to validate FSM-based control logic in a real
 physical system.
 
+## 📸 Circuito do Projeto
+
 ![Circuito do Portão Automático](circuito.jpg)
+
 
 ---
 
