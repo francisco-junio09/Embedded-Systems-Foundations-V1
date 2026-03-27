@@ -100,3 +100,55 @@ boas práticas de desenvolvimento embarcado.
 🇺🇸 All projects prioritize organization, technical documentation, and
 progressive complexity, following applied engineering principles and embedded
 software best practices.
+
+Módulo 06: Controle de Potência e Atuadores (Motores DC)
+⚙️ Module 06: Power Control and Actuators (DC Motors)
+
+Foco Principal | Main Focus:
+🇧🇷 Implementação de controle de potência para atuadores, utilizando drivers
+de alto desempenho, modulação por largura de pulso (PWM) e organização
+adequada da distribuição de energia em sistemas embarcados.
+
+Ênfase em integração entre hardware e software, validação prática de
+circuitos e diagnóstico de falhas reais.
+
+🇺🇸 Implementation of power control for actuators using high-performance
+drivers, Pulse Width Modulation (PWM), and proper power distribution in
+embedded systems.
+
+Emphasis on hardware-software integration, practical circuit validation,
+and real-world debugging.
+
+Projeto 01 | Project 01: Controle de Motor DC com BTS7960
+Status: Concluído | Completed
+
+Descrição | Description:
+🇧🇷 Desenvolvimento de um sistema de controle bidirecional de motor DC
+utilizando o driver BTS7960, com controle de velocidade via PWM e
+inversão de rotação por lógica digital.
+
+O sistema foi alimentado por fonte regulada com módulo LM2596, com
+distribuição de energia via protoboard e validação por testes manuais e
+automatizados.
+
+🇺🇸 Development of a bidirectional DC motor control system using the
+BTS7960 driver, with speed control via PWM and direction control through
+digital logic.
+
+The system was powered by a regulated supply using an LM2596 module,
+with power distribution via breadboard and validation through both manual
+and automated testing.
+
+Principais Conceitos Aplicados | Key Concepts Applied:
+Controle PWM para atuadores
+Drivers de potência (BTS7960)
+Distribuição de energia (barramento)
+GND comum em sistemas embarcados
+Separação entre lógica e potência
+Debug de hardware (teste manual vs software)
+Relatório Técnico | Technical Report:
+Acesse o Projeto Completo
+Status do Sistema | System Status:
+✅ Controle bidirecional funcional
+✅ Integração com Arduino validada
+✅ Testes manuais e automatizados concluídos
