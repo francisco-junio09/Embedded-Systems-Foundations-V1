@@ -147,6 +147,23 @@ GND comum em sistemas embarcados
 Separação entre lógica e potência
 Debug de hardware (teste manual vs software)
 Relatório Técnico | Technical Report:
+
+
+---
+
+### 🧠 Módulo 07: Visão Computacional e Sistemas Fail-Safe  
+### 🧠 Module 07: Computer Vision and Fail-Safe Systems
+
+* **Foco Principal | Main Focus:**  
+  🇧🇷 Desenvolvimento de sistemas autônomos de visão computacional utilizando OpenCV, com foco em detecção de movimento, análise de brilho, monitoramento em tempo real e arquiteturas fail-safe.
+
+  🇺🇸 Development of autonomous computer vision systems using OpenCV, focusing on motion detection, brightness analysis, real-time monitoring, and fail-safe architectures.
+
+* **Projeto 01 | Project 01:** Sistema Autônomo de Segurança Visual com Fail-Safe  
+  * **Status:** Concluído | Completed
+
+* **Repositório do Projeto | Project Repository:**  
+  https://github.com/francisco-junio09/projetoVisao_modularizado
 Acesse o Projeto Completo
 Status do Sistema | System Status:
 ✅ Controle bidirecional funcional
